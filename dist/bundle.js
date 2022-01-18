@@ -370,7 +370,10 @@ var a0_0x1eca = function (_0x4755e1, _0x50e65e) {
         switch (_0x5b6577[_0x51cf33(0x17d)]) {
           case 0x0:
             return (
-              console[_0x51cf33(0x1bb)],
+              console[_0x51cf33(0x1bb)](
+                "Hi there, Kade",
+                "color:\x20red" + ";"
+              ),
               [
                 0x4,
                 fetch(
