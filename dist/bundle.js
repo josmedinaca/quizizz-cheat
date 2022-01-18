@@ -371,7 +371,15 @@ var a0_0x1eca = function (_0x4755e1, _0x50e65e) {
           case 0x0:
             return (
               console[_0x51cf33(0x1bb)](
-                "Hi there, Kade",
+                _0x51cf33(0x1c1) +
+                  _0x51cf33(0x1ba) +
+                  _0x51cf33(0x179) +
+                  _0x51cf33(0x1c2) +
+                  _0x51cf33(0x175) +
+                  "Hi there," +
+                  _0x51cf33(0x197) +
+                  "Kade." +
+                  _0x51cf33(0x169),
                 "color:\x20red" + ";"
               ),
               [
